@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{background-color:#fff}.flexbox{height:100vh;justify-content:space-between;margin:0 auto;max-width:768px;overflow:hidden}.flexbox,.flexbox .board{display:flex;padding:15px;width:100%}.flexbox .board{background-color:#000;flex-direction:column;max-width:300px}.flexbox .board .card{background-color:#fff;cursor:pointer;margin-bottom:15px;padding:15px 25px}
+/*# sourceMappingURL=main.0a1b86b8.css.map*/
